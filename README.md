@@ -5,6 +5,8 @@ Meu nome é Leandro, estou no 5 semestre de Engenharia de Computação na FIAP, 
 * HTML
 * CSS
 * JavaScript
+* React
+* NextJS
 * Python
 * SQL
   
