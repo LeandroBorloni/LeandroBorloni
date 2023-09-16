@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil ! 👨‍🎓 
-Meu nome é Leandro, estou no 5 semestre de Engenharia de Computação na FIAP, tenho muito interesse na área de Desenvolvedor e é aqui que guardo um pouco das minhas práticas!
+Meu nome é Leandro, estou no 6 semestre de Engenharia de Computação na FIAP, tenho muito interesse na área de Desenvolvedor e é aqui que guardo um pouco das minhas práticas!
 
 ## 💻 Linguagens!
 * HTML
